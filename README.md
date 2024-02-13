@@ -1,5 +1,18 @@
 # datafun-06-eda
-### Start a new project
+
+## Dataset name: Tipping data
+#### Dataset link: (https://rdrr.io/cran/reshape2/man/tips.html)
+### Description:
+One waiter recorded information about each tip he received over a period of a few months working in one restaurant. He collected several variables:
+* tip in dollars,
+* bill in dollars,
+* sex of the bill payer,
+* whether there were smokers in the party,
+* day of the week,
+* time of day,
+* size of the party
+
+
 **1.Create GitHub repository and clone to machine** 
 ```
 git clone https://github.com/Jaya-srini/datafun-06-eda.git
