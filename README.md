@@ -22,5 +22,7 @@ seaborn
 
 **4.Git add, commit and push**
 ```
-
+git add .
+git commit -m "Commit message"
+git push
 ```
